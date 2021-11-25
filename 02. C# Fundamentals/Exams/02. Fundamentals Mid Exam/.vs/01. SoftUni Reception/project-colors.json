@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c12e2ab4-31f7-4b41-953c-528640946f51": {
+      "ProjectGuid": "c12e2ab4-31f7-4b41-953c-528640946f51",
+      "DisplayName": "01. SoftUni Reception",
+      "ColorIndex": 0
+    },
+    "a34f4295-6688-408b-b839-3a965ec0172e": {
+      "ProjectGuid": "a34f4295-6688-408b-b839-3a965ec0172e",
+      "DisplayName": "02. Array Modifier",
+      "ColorIndex": 1
+    },
+    "afcd4f07-dccc-4086-b9bd-044f364a29e2": {
+      "ProjectGuid": "afcd4f07-dccc-4086-b9bd-044f364a29e2",
+      "DisplayName": "03. Numbers",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

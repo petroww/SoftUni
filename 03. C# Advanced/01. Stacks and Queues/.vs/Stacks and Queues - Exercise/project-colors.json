@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25a9a2e3-7889-48d1-8df4-0ff0c0c621e8": {
+      "ProjectGuid": "25a9a2e3-7889-48d1-8df4-0ff0c0c621e8",
+      "DisplayName": "01. Basic Stack Operations",
+      "ColorIndex": 0
+    },
+    "41a8c0e2-2e30-4259-b31e-08bb3fdc1921": {
+      "ProjectGuid": "41a8c0e2-2e30-4259-b31e-08bb3fdc1921",
+      "DisplayName": "02. Basic Queue Operations",
+      "ColorIndex": 1
+    },
+    "89994750-916d-4dc6-b00a-0561047ab3b9": {
+      "ProjectGuid": "89994750-916d-4dc6-b00a-0561047ab3b9",
+      "DisplayName": "03. Maximum and Minimum Element",
+      "ColorIndex": 2
+    },
+    "2bad2e27-4cd4-4ff4-b621-b1bd2ff690e2": {
+      "ProjectGuid": "2bad2e27-4cd4-4ff4-b621-b1bd2ff690e2",
+      "DisplayName": "04. Fast Food",
+      "ColorIndex": 3
+    },
+    "e58b930d-c205-4c51-8ea3-abd9c9762f8d": {
+      "ProjectGuid": "e58b930d-c205-4c51-8ea3-abd9c9762f8d",
+      "DisplayName": "05. Fashion Boutique",
+      "ColorIndex": 4
+    },
+    "0a214897-1c0c-4e82-8aae-d4bedf31e9e1": {
+      "ProjectGuid": "0a214897-1c0c-4e82-8aae-d4bedf31e9e1",
+      "DisplayName": "06. Songs Queue",
+      "ColorIndex": 5
+    },
+    "41f40328-d922-45b5-9093-c84f441ebc53": {
+      "ProjectGuid": "41f40328-d922-45b5-9093-c84f441ebc53",
+      "DisplayName": "07. Truck Tour",
+      "ColorIndex": 6
+    },
+    "95e4229c-c29e-40e1-8252-2679c59df272": {
+      "ProjectGuid": "95e4229c-c29e-40e1-8252-2679c59df272",
+      "DisplayName": "08. Balanced Parenthesis",
+      "ColorIndex": 7
+    },
+    "3069dde6-9bee-465d-9420-265025d0eb00": {
+      "ProjectGuid": "3069dde6-9bee-465d-9420-265025d0eb00",
+      "DisplayName": "09. Simple Text Editor",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
